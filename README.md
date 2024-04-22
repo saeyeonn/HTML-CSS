@@ -1,2 +1,1 @@
-# Django-Study
-Python Django
+# HTML + CSS basic study
